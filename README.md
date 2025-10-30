@@ -36,14 +36,8 @@ By automating human-like interactions, it ensures organic growth and sustained a
 - Enhances engagement rates and discoverability
 - Runs on both real and emulated Android devices
 - Integrates seamlessly with Appilot’s automation dashboard
-  ##
-<p align="center">
-<a href="https://cal.com/app-pilot-m8i8oo/30min" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-</p
 
-## Core Features
+### Core Features
 
 | Feature | Description |
 |----------|-------------|
