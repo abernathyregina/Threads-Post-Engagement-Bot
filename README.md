@@ -21,8 +21,6 @@ The **Threads Post Engagement Bot** automates interactions on Threads posts — 
     <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
-
-
 <p align="center"> 
    Created by Appilot, built to showcase our approach to Automation!<br>
    <strong>If you are looking for custom Threads Post Engagement Bot, you've just found your team — Let’s Chat.👆👆</strong>
